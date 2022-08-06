@@ -9,7 +9,7 @@ My name is James Jilhaney, and I'd like to welcome you to my personal website.
 
 If you're in reading this website, chances are that you are a recruiter. If so, well, I'd just like to say the following:
 
-I may not be the best programmer right now, but these are just some of the things that I can offer to your company.
+I may not be the best programmer right now, but these are just some of the things that I can offer your company.
 
 1. A **GREAT** personality;
 2. A desire to constantly learn and reinvent myself;
