@@ -23,7 +23,7 @@ So, ~~please hire me~~ sit back, relax, and enjoy. 😃
 ![](https://scontent.fcgm1-1.fna.fbcdn.net/v/t1.6435-9/65313845_2229700477121591_7700214253864615936_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EO6FD6S9uyAAX9HWsKM&_nc_ht=scontent.fcgm1-1.fna&oh=00_AT8rCHlJZiK-iEcPw-77k_Tg8yLyedHA2ONUek6skKs9rQ&oe=6312410C)
 I am currently a fourth-year student studying Computer Science at **Xavier University - Ateneo de Cagayan**. 
 
-I have **two scholarships** that I earned to support my schooling - those being my **CHED** (Commission on Higher Education) and **XCCA** (Xavier Center for Culture and the Arts) scholarship.
+I have **two scholarships** that I earned to support my schooling - those being my **CHED** (Commission on Higher Education) and **XCCA** (Xavier Center for Culture and the Arts) scholarships.
 
 I have been a consistent student leader in relevant organizations and my experience is the following:
 
