@@ -1,5 +1,13 @@
 ![](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Who Am I?](#who-am-i-🙋)
+  - [Achievements](#achievements)
+- [Work Experience](#work-experience-💼)
+- [Skills](#skills-🔥)
+  - [Programming](#programming)
+- [Social Media](#social-media-📱)
 # Who Am I? 🙋
 <div class="self-image-cropper">
     <img class="self-image" src="https://scontent.fcgm1-1.fna.fbcdn.net/v/t1.6435-9/173108996_3810358232424372_6382907658385410901_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=CvZnQSFJsy8AX8u71Ie&_nc_ht=scontent.fcgm1-1.fna&oh=00_AT_EbQUPyxpC31AFoVg1aORy1yc3U-8Lt1OaitSM7APpSg&oe=631573F7" alt="drawing" width="400" />
@@ -59,7 +67,7 @@ My full resume can be found by clicking [this link](https://www.canva.com/design
 
 You can visit my [GitHub Profile](https://github.com/Biowulf21) to view the projects that I built with these technologies.
 
-# Social Media
+# Social Media 📱
 I am not very active in a lot of social media sites, however , you can contact me through the following links:
 - 📨 Email - jamesjilhaney21@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-jilhaney21/)
