@@ -48,7 +48,7 @@ Under my leadership, our university also managed to enter the most number of par
 Ever since my freshman year, I have also been a consistent **dean's lister** in my College.
 
 # Work Experience 💼 
-<img src="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" width="2000" height="600"></img>
+<img src="https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d29ya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" width="2000" height="600">
 
 Despite being fairly young, I have some background on various fields (e.g Graphic Design, Digital Marketing, and junior Software Developer).
 
