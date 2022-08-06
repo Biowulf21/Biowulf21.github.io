@@ -2,12 +2,13 @@
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Who Am I?](#who-am-i-🙋)
+- [Who Am I? 🙋](#who-am-i-)
+- [Education 🎓](#education-)
   - [Achievements](#achievements)
-- [Work Experience](#work-experience-💼)
-- [Skills](#skills-🔥)
+- [Work Experience 💼](#work-experience-)
+- [Skills 🔥](#skills-)
   - [Programming](#programming)
-- [Social Media](#social-media-📱)
+- [Social Media 📱](#social-media-)
 # Who Am I? 🙋
 <div class="self-image-cropper">
     <img class="self-image" src="https://scontent.fcgm1-1.fna.fbcdn.net/v/t1.6435-9/173108996_3810358232424372_6382907658385410901_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=CvZnQSFJsy8AX8u71Ie&_nc_ht=scontent.fcgm1-1.fna&oh=00_AT_EbQUPyxpC31AFoVg1aORy1yc3U-8Lt1OaitSM7APpSg&oe=631573F7" alt="drawing" width="400" />
