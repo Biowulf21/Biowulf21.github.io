@@ -1,0 +1,22 @@
+.container-fluid{
+    padding-top: 0px;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+.contact-me-div{
+    border: solid white 3px;
+    border-radius: 30px;
+    height: fit-content;
+    position: relative;
+    height: 40px;
+    padding-left:10px;
+    padding-right:10px;
+    margin-right: 10px;
+}
+
+.contact-me{
+    font-size: 17px;
+}
